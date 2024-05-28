@@ -8,7 +8,7 @@ Tech Stack
 
 Frontend: React.js, Chart.js
 Backend: Node.js, Express.js
-Database: MongoDB (hosted on MongoDB Atlas)npm start
+Database: MongoDB (hosted on MongoDB Atlas)
 
 Installation
 
